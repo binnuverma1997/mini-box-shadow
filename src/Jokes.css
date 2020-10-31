@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+  }
+  .App {
+    text-align: center;
+  
+  }
+  .App > h2{
+    background-color: lightgray;
+    padding: 30px;
+  }
+  .App > h1{
+    width: 80%;
+    margin: auto;
+    padding: 50px;
+  }
+  button{
+    background-color: rgb(68, 151, 68);
+    padding: 20px;
+  }
